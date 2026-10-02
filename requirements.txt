@@ -1,0 +1,4 @@
+flask>=3.0
+gunicorn>=22.0
+pqcrypto>=1.0.0
+cryptography>=42.0.0
